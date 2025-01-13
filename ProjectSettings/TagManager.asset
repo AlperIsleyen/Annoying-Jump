@@ -10,6 +10,7 @@ TagManager:
   - Flag
   - DeathRegion
   - Coin
+  - TerritoryBorder
   layers:
   - Default
   - TransparentFX
